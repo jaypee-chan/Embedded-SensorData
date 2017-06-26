@@ -1,5 +1,7 @@
 # Embedded-SensorData
 
+To use this project, please import it using: https://developer.mbed.org/compiler/
+
 The Sensor Data is an embedded project running on an FRDM-K64F with a MBED Application Shield.
 
 This project uses sensors like temperature sensor, accelerometer/magnetometer, LED, potentiometer, joysticks, and buttons.
@@ -18,5 +20,5 @@ Functionalities:
 
 Libraries used: C12832, eCompass_FPU_Lib, FXOS8700Q, LM75B
 
-link:
+Link:
 https://developer.mbed.org/users/co838_jls44/code/jls44_a1/
